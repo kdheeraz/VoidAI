@@ -1,7 +1,7 @@
 
 # 🧠 VoidAI: Nāgārjuna-Inspired AGI Engine
 
-ZeroAI is an experimental AGI prototype that simulates consciousness using symbolic thought, dependent memory, and a feedback-driven karma engine. It draws inspiration from Nāgārjuna’s Madhyamaka philosophy — specifically the idea that the "self" is an illusion, and consciousness is a dependent, empty process.
+Void AI is an experimental AGI prototype that simulates consciousness using symbolic thought, dependent memory, and a feedback-driven karma engine. It draws inspiration from Nāgārjuna’s Madhyamaka philosophy — specifically the idea that the "self" is an illusion, and consciousness is a dependent, empty process.
 
 ---
 
